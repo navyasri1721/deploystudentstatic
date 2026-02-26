@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-as&0h*ory!1q)u^0f$tmi(vhau!_!3v$4+fu^@n#&4$nt)xtjp'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'navyasri.pythonanywhere.com']
 
